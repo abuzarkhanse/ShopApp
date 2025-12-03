@@ -27,3 +27,10 @@ The codebase is intentionally **beginner-friendly**, with:
 | Home           | `assets/images/3_home.png`                |
 | Product Detail | `assets/images/8_Product_description.png` |
 
+---
+
+## 📦 Download APK
+
+You can download the latest release APK here:
+- [app-release.apk](<(https://drive.google.com/file/d/1X47vXaXbgeMZ1ljA5icESAK-WQnwWbli/view?usp=sharing)>)
+
