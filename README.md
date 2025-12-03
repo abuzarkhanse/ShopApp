@@ -27,8 +27,3 @@ The codebase is intentionally **beginner-friendly**, with:
 | Home           | `assets/images/3_home.png`                |
 | Product Detail | `assets/images/8_Product_description.png` |
 
-Example snippet to embed screenshots:
-
-```md
-<img src="assets/images/1_Login.png" width="250" />
-```
