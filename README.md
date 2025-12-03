@@ -32,5 +32,5 @@ The codebase is intentionally **beginner-friendly**, with:
 ## 📦 Download APK
 
 You can download the latest release APK here:
-- [app-release.apk](<(https://drive.google.com/file/d/1X47vXaXbgeMZ1ljA5icESAK-WQnwWbli/view?usp=sharing)>)
+- [app-release.apk](<https://drive.google.com/file/d/1X47vXaXbgeMZ1ljA5icESAK-WQnwWbli/view?usp=sharing>)
 
