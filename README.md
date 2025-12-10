@@ -1,6 +1,6 @@
 # ShopApp (FYPShopApp) – React Native E-Commerce Mobile App
 
-ShopApp (FYPShopApp) is a simple e-commerce mobile application built with **React Native (Community CLI)** and **TypeScript** as part of a university **Mobile Application Development / Final Year Project**.
+ShopApp (FYPShopApp) is a simple e-commerce mobile application built with **React Native (Community CLI)** and **TypeScript** as part of a university **Mobile Application Development / Semester Project**.
 
 The app demonstrates a clean shopping flow:
 
